@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on meltingcomputer</title>
+    <link>https://meltingcomputer.github.io/posts/</link>
+    <description>Recent content in Posts on meltingcomputer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Jun 2023 20:19:44 -0400</lastBuildDate><atom:link href="https://meltingcomputer.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://meltingcomputer.github.io/posts/hello-world/</link>
+      <pubDate>Sun, 04 Jun 2023 20:19:44 -0400</pubDate>
+      
+      <guid>https://meltingcomputer.github.io/posts/hello-world/</guid>
+      <description>Hello World This is my first blog post, and also my first time using Hugo!
+I&amp;rsquo;m using MarkText to draft this post, and I feel pretty comfortable with Markdown after using Obsidian quite a while for taking notes.</description>
+    </item>
+    
+  </channel>
+</rss>
